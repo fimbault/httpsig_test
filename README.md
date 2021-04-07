@@ -1,2 +1,2 @@
 # httpsig_test
-Test an existing implementation
+basic test with [http-sig](https://github.com/PassFort/http-signatures)
